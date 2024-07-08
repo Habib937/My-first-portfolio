@@ -1,0 +1,60 @@
+
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800 */
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.design{
+    color: #FD6E0A;
+}
+.title{
+    font-size: 45px;
+font-weight: 800;
+}
+li{
+    list-style: none;
+    color: rgb(71, 71, 71);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+margin: 20px;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn{
+    width: 150px;
+    height: 64px;
+    border-radius: 5px;
+    
+    background: rgb(253, 110, 10);
+
+    color: rgb(255, 255, 255);
+font-family: Open Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+margin: 18px 36px 35px 19px;
+border: none;
+}
+
+.top-hire{
+   
+}
